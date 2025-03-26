@@ -1,0 +1,38 @@
+
+
+.solid{
+    border: 1px solid red;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
+.list{
+    margin-top:15px ;
+    border: 1px solid blue;
+}
+.img{
+    width: 100px;
+    height: 250px;
+    display: inline-flex;
+    gap: 10px;
+
+}
+.im img{
+   padding: 10px;
+
+}
+.footer {
+    width:600px;
+    height: 100px;
+    display: flex ;
+}
+.footer img{
+    width: 70px;
+    height: 70px;
+    display: inline-flex;
+}
+.footer p{
+   padding: 30px 5px;
+
+}
